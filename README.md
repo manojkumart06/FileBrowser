@@ -45,10 +45,11 @@ To get a local copy up and running follow these simple steps:
 - To delete a file, click the "Delete" button next to the file name.
 
 ## Screenshots
+![image](https://github.com/manojkumart06/FileBrowser/assets/61974981/48a6d7da-0550-477f-8dc4-1ca768dd8b7f)
 
 
 ## Live Demo
-You can try the live [here]().
+You can try the live [here](https://file-browser-nine.vercel.app/).
 
 ## Contributing
 
