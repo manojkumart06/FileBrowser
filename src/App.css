@@ -1,3 +1,11 @@
+*{
+  background-color: rgb(33,34,39);
+}
+
+.text-print{
+  color : rgb(255,255,255);
+}
+
 .top-left {
   position: fixed;
   top: 0;

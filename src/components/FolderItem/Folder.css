@@ -1,0 +1,42 @@
+.arrow-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  transition: transform 0.1s;
+}
+
+.arrow-icon.open {
+  transform: rotate(0deg); 
+}
+
+.arrow-icon.closed {
+  transform: rotate(-90deg); 
+}
+
+.folder-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+}
+
+.dropdown-folder-menu {
+  position: absolute;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 8px 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+  margin: -7px 0 0 -20px ;
+}
+
+.dropdown-folder-menu li {
+  width: 100px;
+  color:  rgb(255,255,255);
+  padding: 2px 16px;
+  cursor: pointer;
+  list-style: none;
+}
+
+.dropdown-folder-menu li:hover {
+  background-color: #172696;
+}
