@@ -1,17 +1,15 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React, { FC } from 'react';
 
-function App() {
+interface AppProps {
   
-
-  return (
-    <>
-      <div>
-      </div>
-    </>
-  )
 }
 
-export default App
+const App: FC<AppProps> = ({  }) => {
+  return (
+    <div>
+     App
+    </div>
+  );
+};
+
+export default App;
